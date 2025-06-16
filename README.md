@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Rodrigo Pilar
+
+Estudante de Engenharia Informática com gosto por programação e desenvolvimento web.
 
 ## 🛠️ Ferramentas e Tecnologias
 
