@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Rodrigo Pilar
 
-Estudante de Engenharia de Sistemas Informáticos, no Instituto Politécnico do Cávado e Ave (IPCA) com gosto por programação e desenvolvimento web.
+Estudante de Engenharia de Sistemas Informáticos, no Instituto Politécnico do Cávado e Ave (IPCA), com gosto por programação e desenvolvimento web.
 
 ## 🛠️ Ferramentas e Tecnologias
 
