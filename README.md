@@ -37,6 +37,7 @@ Estudante de Engenharia de Sistemas Informáticos, no Instituto Politécnico do 
   <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img title="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
   <img title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />
+  <img title="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" />
 </p>
 
 ## Contactos:
